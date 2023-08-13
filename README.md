@@ -1,5 +1,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syt0719)](https://solved.ac/syt0719/)
 
+<p align="center">
+<img src="https://github.com/0takkk/0takkk/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 <!--
 ### Hi there 👋
 #### I'm 0takkk, a Student Developer studying Back-End.
